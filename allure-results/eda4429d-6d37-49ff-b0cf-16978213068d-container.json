@@ -1,0 +1,1 @@
+{"uuid":"eda4429d-6d37-49ff-b0cf-16978213068d","name":"Сценарий: Первый","children":["d6046aa4-4495-4c38-aaf6-0eb7b6cd1368"],"befores":[{"name":"Hooks.start()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1591836636644,"stop":1591836644015}],"afters":[],"links":[],"start":1591836636641,"stop":1591836653065}

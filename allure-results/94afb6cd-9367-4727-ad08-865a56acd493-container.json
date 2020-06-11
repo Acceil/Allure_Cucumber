@@ -1,0 +1,1 @@
+{"uuid":"94afb6cd-9367-4727-ad08-865a56acd493","name":"Сценарий: Второй сценарий","children":["b802a7d5-581c-4a63-9d29-dcdbd54cfe8e"],"befores":[{"name":"Hooks.start()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1591839547807,"stop":1591839554294}],"afters":[],"links":[],"start":1591839547807,"stop":1591839563515}
